@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shaiq Ahmed 👋
 
-<!--
-**Shaiq-Ahmed09/Shaiq-Ahmed09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate, versatile **Computer Science & Engineering student** focused on building intelligent software solutions. My expertise bridges full-stack web development, data-driven algorithms, and machine learning models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+*   **Intelligent Systems:** Exploring Machine Learning and AI to turn raw data into predictive insights and automated workflows.
+*   **Full-Stack Architectures:** Crafting responsive, end-to-end web applications with clean backend logic and interactive frontends.
+*   **Algorithmic Foundations:** Deeply invested in Data Structures & Algorithms (DSA) to write highly optimized, scalable code.
+
+### 🛠️ Tech Stack & Toolbelt
+*   **Languages:** Python, JavaScript, C/C++
+*   **AI & Machine Learning:** Core ML Paradigms, AI Pipelines, Data Foundations
+*   **Web Development:** Full-Stack Web Tools, Python Frameworks, HTML5/CSS3
+*   **Core Concepts:** Data Structures & Algorithms (DSA), Operating Systems
+
+---
+
+### 📫 Let's Connect!
+*   💼 [LinkedIn] (https://www.linkedin.com/in/shaiq-ahmed)
+*   📧 [Email](mailto:shaiq090405@gmail.com)
