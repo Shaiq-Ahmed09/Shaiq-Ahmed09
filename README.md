@@ -10,10 +10,10 @@ I am a passionate, versatile **Computer Science & Engineering student** focused 
 *   **Algorithmic Foundations:** Deeply invested in Data Structures & Algorithms (DSA) to write highly optimized, scalable code.
 
 ### 🛠️ Tech Stack & Toolbelt
-*   **Languages:** Python, JavaScript, C/C++
+*   **Languages:** Python, JavaScript, C/C++, Java, React, Tailwind CSS.
 *   **AI & Machine Learning:** Core ML Paradigms, AI Pipelines, Data Foundations
-*   **Web Development:** Full-Stack Web Tools, Python Frameworks, HTML5/CSS3
-*   **Core Concepts:** Data Structures & Algorithms (DSA), Operating Systems
+*   **Web Development:** Fast API, Full-Stack Web Tools, Python Frameworks, HTML5/CSS3
+*   **Core Concepts:** Data Structures & Algorithms (DSA), Object Oriented Programming (OOPs), Operating Systems
 
 ---
 
