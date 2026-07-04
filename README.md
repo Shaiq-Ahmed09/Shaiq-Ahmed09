@@ -18,5 +18,5 @@ I am a passionate, versatile **Computer Science & Engineering student** focused 
 ---
 
 ### 📫 Let's Connect!
-*   💼 [LinkedIn] (https://www.linkedin.com/in/shaiq-ahmed)
+*   💼 [LinkedIn] https://www.linkedin.com/in/shaiq-ahmed
 *   📧 [Email](mailto:shaiq090405@gmail.com)
