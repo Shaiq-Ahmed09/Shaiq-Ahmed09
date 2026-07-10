@@ -13,7 +13,7 @@ I am a passionate, versatile **Computer Science & Engineering student** focused 
 *   **Languages:** Python, JavaScript, C/C++, Java, React, Tailwind CSS.
 *   **AI & Machine Learning:** Core ML Paradigms, AI Pipelines, Data Foundations
 *   **Web Development:** Fast API, Full-Stack Web Tools, Python Frameworks, HTML5/CSS3
-*   **Core Concepts:** Data Structures & Algorithms (DSA), Object Oriented Programming (OOPs), Operating Systems
+*   **Core Concepts:** Data Structures & Algorithms (DSA), Object Oriented Programming (OOPs), Full Stack Web Development, Operating Systems
 
 ---
 
