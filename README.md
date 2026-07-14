@@ -1,4 +1,4 @@
-# Hi, I'm Shaiq Ahmed 👋
+# Hi, I'm Shaiq Ahmed 
 
 I am a passionate, versatile **Computer Science & Engineering student** focused on building intelligent software solutions. My expertise bridges full-stack web development, data-driven algorithms, and machine learning models.
 
